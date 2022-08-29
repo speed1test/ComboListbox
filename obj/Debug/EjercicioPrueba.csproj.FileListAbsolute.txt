@@ -1,0 +1,12 @@
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\bin\Debug\EjercicioPrueba.exe.config
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\bin\Debug\EjercicioPrueba.exe
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\bin\Debug\EjercicioPrueba.pdb
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.Form1.resources
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.Properties.Resources.resources
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.exe
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.pdb
+C:\Users\edwin\source\repos\EjercicioPrueba\EjercicioPrueba\obj\Debug\EjercicioPrueba.Form2.resources
